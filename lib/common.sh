@@ -1,4 +1,4 @@
-ort#!/usr/bin/env bash
+#!/usr/bin/env bash
 
 gradle_build_file() {
   local buildDir=${1}
